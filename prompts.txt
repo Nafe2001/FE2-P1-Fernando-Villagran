@@ -29,3 +29,8 @@ Etapa 6: Mejora Visual
 Prompt: Mejorar diseño visual, estilos trabajados, distribución y apariencia moderna.
 Propósito: Evolucionar presentación.
 Evaluación: Útil.
+
+Etapa 7: Agregar Imágenes
+Prompt: Agregar imágenes correspondientes a cada producto en el sitio.
+Propósito: Mejorar visual con imágenes.
+Evaluación: Útil.
