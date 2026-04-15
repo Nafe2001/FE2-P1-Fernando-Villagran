@@ -24,3 +24,8 @@ Etapa 5: Documentación
 Prompt: Incluir prompts.txt con registros.
 Propósito: Documentar prompts.
 Evaluación: Útil.
+
+Etapa 6: Mejora Visual
+Prompt: Mejorar diseño visual, estilos trabajados, distribución y apariencia moderna.
+Propósito: Evolucionar presentación.
+Evaluación: Útil.
