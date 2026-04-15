@@ -1,0 +1,26 @@
+Registro de Prompts
+
+Etapa 1: Versión Inicial
+Prompt: Construir sitio básico con nombre, descripción, estructura y sección destacada.
+Propósito: Crear versión inicial.
+Evaluación: Útil.
+
+Etapa 2: Mejora Producto
+Prompt: Presentar producto tecnológico atractivo con características y diseño visual.
+Propósito: Evolucionar sitio.
+Evaluación: Útil.
+
+Etapa 3: Simplificación
+Prompt: Hacer sitio básico para varios productos.
+Propósito: Simplificar diseño.
+Evaluación: Útil.
+
+Etapa 4: GitHub
+Prompt: Vincular repo local con GitHub.
+Propósito: Configurar remoto.
+Evaluación: Útil.
+
+Etapa 5: Documentación
+Prompt: Incluir prompts.txt con registros.
+Propósito: Documentar prompts.
+Evaluación: Útil.
