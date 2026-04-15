@@ -45,12 +45,32 @@ Prompt: Adaptar diseño a pantallas pequeñas, asegurar legibilidad y evitar sup
 Propósito: Optimizar para móviles.
 Evaluación: Útil.
 
-Etapa 10: Uniformidad de Imágenes
+Etapa 10: Ajuste de Imágenes
+Prompt: Cambiar object-fit a contain para mostrar imágenes completas sin cortes.
+Propósito: Corregir visualización.
+Evaluación: Útil.
+
+Etapa 11: Uniformidad de Imágenes
 Prompt: Hacer todas las imágenes del mismo tamaño para uniformidad.
 Propósito: Mejorar orden visual.
 Evaluación: Útil.
 
-Etapa 11: Ajuste de Imágenes
-Prompt: Cambiar object-fit a contain para mostrar imágenes completas sin cortes.
-Propósito: Corregir visualización.
+Etapa 12: Sección Comparativa
+Prompt: Incorporar ficha comparativa con tabla de características y atributos técnicos.
+Propósito: Facilitar comparación de productos.
+Evaluación: Útil.
+
+Etapa 13: Botón de Comparación
+Prompt: Agregar botón para acceder a la sección comparativa.
+Propósito: Hacerla opcional y accesible.
+Evaluación: Útil.
+
+Etapa 14: Toggle Comparativa
+Prompt: Hacer la tabla comparativa oculta por defecto y mostrarla al clicar el botón.
+Propósito: Mejorar UX sin sobrecargar la página.
+Evaluación: Útil.
+
+Etapa 15: Modal Comparativa
+Prompt: Convertir la comparativa en un modal emergente al frente de la página.
+Propósito: Mejorar accesibilidad y diseño.
 Evaluación: Útil.
