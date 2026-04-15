@@ -34,3 +34,8 @@ Etapa 7: Agregar Imágenes
 Prompt: Agregar imágenes correspondientes a cada producto en el sitio.
 Propósito: Mejorar visual con imágenes.
 Evaluación: Útil.
+
+Etapa 8: Incorporación de Contenido
+Prompt: Agregar secciones de características, beneficios, especificaciones y usos.
+Propósito: Explicar mejor los productos.
+Evaluación: Útil.
