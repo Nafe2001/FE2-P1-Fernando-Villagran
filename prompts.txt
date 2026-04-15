@@ -39,3 +39,8 @@ Etapa 8: Incorporación de Contenido
 Prompt: Agregar secciones de características, beneficios, especificaciones y usos.
 Propósito: Explicar mejor los productos.
 Evaluación: Útil.
+
+Etapa 9: Adaptación Móvil
+Prompt: Adaptar diseño a pantallas pequeñas, asegurar legibilidad y evitar superposiciones.
+Propósito: Optimizar para móviles.
+Evaluación: Útil.

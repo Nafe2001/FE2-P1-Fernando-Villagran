@@ -101,3 +101,62 @@ footer {
     padding: 1rem;
     margin-top: 2rem;
 }
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    #productos {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .producto {
+        padding: 1.5rem;
+    }
+
+    .producto h2 {
+        font-size: 1.3rem;
+    }
+
+    .producto h3 {
+        font-size: 1rem;
+    }
+
+    .producto img {
+        max-width: 200px;
+    }
+
+    button {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    .producto:hover {
+        transform: none; /* Desactivar hover en móviles para evitar problemas */
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .producto {
+        padding: 1rem;
+    }
+
+    .producto h2 {
+        font-size: 1.2rem;
+    }
+
+    .producto p, .producto li {
+        font-size: 0.9rem;
+    }
+}
