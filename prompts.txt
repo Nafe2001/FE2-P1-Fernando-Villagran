@@ -44,3 +44,8 @@ Etapa 9: Adaptación Móvil
 Prompt: Adaptar diseño a pantallas pequeñas, asegurar legibilidad y evitar superposiciones.
 Propósito: Optimizar para móviles.
 Evaluación: Útil.
+
+Etapa 10: Uniformidad de Imágenes
+Prompt: Hacer todas las imágenes del mismo tamaño para uniformidad.
+Propósito: Mejorar orden visual.
+Evaluación: Útil.
