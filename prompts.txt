@@ -49,3 +49,8 @@ Etapa 10: Uniformidad de Imágenes
 Prompt: Hacer todas las imágenes del mismo tamaño para uniformidad.
 Propósito: Mejorar orden visual.
 Evaluación: Útil.
+
+Etapa 11: Ajuste de Imágenes
+Prompt: Cambiar object-fit a contain para mostrar imágenes completas sin cortes.
+Propósito: Corregir visualización.
+Evaluación: Útil.
